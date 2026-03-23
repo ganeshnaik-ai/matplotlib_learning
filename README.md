@@ -77,6 +77,10 @@ Open pandas.ipynb and run all cells.
 ###  Screenshots
  Visualization
 <img width="1309" height="879" alt="Screenshot 2026-03-23 184614" src="https://github.com/user-attachments/assets/885d1584-3cd8-4022-a235-0af8ab2c63fd" />
+<img width="1152" height="892" alt="Screenshot 2026-03-23 184632" src="https://github.com/user-attachments/assets/3946c0bd-af53-4e09-9555-45efc43965bb" />
+<img width="1211" height="848" alt="Screenshot 2026-03-23 184645" src="https://github.com/user-attachments/assets/413b8edc-b798-47ca-909b-964038135c9a" />
+
+
 
 ## Key Insights
 Cleaned and structured raw data for better usability
